@@ -1,0 +1,25 @@
+let score= "33abc"
+// console.log(typeof "33"); //string
+// console.log(typeof score); //number
+
+
+let value = Number(score)
+// console.log( typeof value);
+// console.log(value);
+
+// "33" => 33 
+//"33abc"=> NAN
+//TRUE=>1, ;FALSE =>0
+
+A =33;
+console.log(typeof (A));
+
+let B=String(A); //use to convert num to string 
+console.log(B);
+console.log(typeof B);
+
+
+
+
+
+ 
