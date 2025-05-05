@@ -57,7 +57,7 @@ let date = new Date();                // Date
 
 // Special Data Types
 let infinity = Infinity;             // Infinity
-let nan = "abc" / 2;                 // NaN
+let nan = "abc" /2;                 // NaN
 
 // Logging each type and its value
 console.log("String:", str, "Type:", typeof str);
@@ -76,3 +76,8 @@ console.log("Date:", date, "Type:", typeof date);
 console.log("Infinity:", infinity, "Type:", typeof infinity);
 console.log("NaN:", nan, "Type:", typeof nan);
 
+//========================================================================================
+
+// Stack memrory is for  (Primitive), & Heap memrory for ( non primitive)
+
+let myyoutubename ="nashikclasickar"
